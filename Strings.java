@@ -13,8 +13,8 @@ public class Strings {
         System.out.println(fullname);
         System.out.println(fullname.length());      //.length is used to count length of the string
 
-        // we can also print individual letter present in the string using charAt function 
-        // charAt----> this is the inbuild function in java
+        // we can also print individual letter present in the string using 'charAt' function 
+        // 'charAt'----> this is the inbuild function in java
         for(int i = 0;i<fullname.length();i++){
             System.out.print(fullname.charAt(i));
         }
