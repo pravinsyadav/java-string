@@ -27,6 +27,7 @@ public class Sringuilder {
         sb.append("n");
         System.out.println(sb);
         System.out.println(sb.length());
+        
     }
     
 }
